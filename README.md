@@ -35,7 +35,7 @@ Wij zijn een **serieuze, maar gezellige community** met een passie voor een eerl
 ### 🌟 Wat maakt ons uniek?
 
 | 🎯 **Actieve Staff** | Ons team staat 24/7 klaar voor jou |
-| 🔄 **Regelmatige Updates** | Wij luisteren naar de community & updaten continu |
+| 🔄 **Actieve Discord** | Wij proberen de Discord server actief te houden |
 | 🤝 **Vriendelijke Community** | Iedereen is welkom, van beginner tot pro |
 | 🏆 **Events & Activiteiten** | Regelmatige evenementen met leuke beloningen |
 
