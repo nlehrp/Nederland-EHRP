@@ -25,7 +25,7 @@
 
 > Welkom bij **Nederland - EHRP🚧**
 
-Wij zijn een **serieuze, maar gezellige community** met een passie voor een eerlijke en realistische gaming ervaring. Of je nu net begint of al een doorgewinterde speler bent, bij ons voel je je thuis.
+Wij zijn een **serieuze, maar gezellige community** met een passie voor een eerlijke en realistische roleplay ervaring. Of je nu net begint of al een doorgewinterde speler bent, bij ons voel je je thuis.
 
 ### 🌟 Wat maakt ons uniek?
 
@@ -35,6 +35,7 @@ Wij zijn een **serieuze, maar gezellige community** met een passie voor een eerl
 | 🔄 **Actieve Discord** | Wij proberen de Discord server actief te houden |
 | 🤝 **Vriendelijke Community** | Iedereen is welkom, van beginner tot pro |
 | 🏆 **Events & Activiteiten** | Regelmatige evenementen met leuke beloningen |
+| 🎁 **Veel Giveaways** | Regelmatige giveaways met verschillende prijzen |
 
 ### 📜 Onze Missie
 
