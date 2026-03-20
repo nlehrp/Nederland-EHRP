@@ -16,7 +16,6 @@
 
 - [📖 Informatie](#-informatie)
 - [🖥️ Server Details](#%EF%B8%8F-server-details)
-- [⚠️ Sanctiebeleid](#%EF%B8%8F-sanctiebeleid)
 - [📞 Contact & Staff](#-contact--staff)
 
 ---
@@ -52,23 +51,6 @@ Wij streven ernaar een **veilige, eerlijke en plezierige** omgeving te bieden vo
 | 🗺️ **Server Code** | `5ixparrs` |
 | 🔗 **Server Link** | [Klik hier om te joinen](https://www.roblox.com/games/start?launchData=joinCode%3D5ixparrs&placeId=7711635737) |
 | 👥 **Max. Spelers** | 44 |
-
----
-
-## ⚠️ Sanctiebeleid
-
-> Staff heeft te allen tijde het recht om sancties te geven die zij passend vinden bij de situatie.
-
-| 🚨 Overtreding | 🔨 Sanctie |
-|---|---|
-| Lichte overtreding (1e keer) | Mondelinge waarschuwing |
-| Lichte overtreding (herhaling) | Schriftelijke waarschuwing |
-| Normale overtreding | Tijdelijke mute / kick |
-| Ernstige overtreding | Tijdelijke ban (1–7 dagen) |
-| Zware overtreding | Tijdelijke ban (7–30 dagen) |
-| Zeer zware overtreding | (Directe) Permanente ban |
-
-> 💡 **Tip:** Sancties kunnen worden aangevochten via een **ban appeal** in onze Discord. Doe dit beleefd en onderbouwd.
 
 ---
 
