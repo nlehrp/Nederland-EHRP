@@ -28,7 +28,7 @@
 
 ## 📖 Informatie
 
-> Welkom op **[SERVERNAAM]** — een van de meest unieke en uitgebreide game-servers van Nederland/België!
+> Welkom bij Nederland - EHRP🚧
 
 Wij zijn een **serieuze, maar gezellige community** met een passie voor een eerlijke en realistische gaming ervaring. Of je nu net begint of al een doorgewinterde speler bent, bij ons voel je je thuis.
 
