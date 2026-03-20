@@ -20,7 +20,7 @@
 |---|---|
 | Lichte overtreding (1e keer) | Mondelinge waarschuwing |
 | Lichte overtreding (herhaling) | Schriftelijke waarschuwing |
-| Normale overtreding | Tijdelijke mute |
+| Normale overtreding | Tijdelijke ban (10 min-1 dag) |
 | Ernstige overtreding | Tijdelijke ban (1–7 dagen) |
 | Zware overtreding | Tijdelijke ban (7–30 dagen) |
 | Zeer zware overtreding | (Directe) Permanente ban |
