@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER AFBEELDING -->
-<img src="https://i.imgur.com/n62x7pv.png" alt="Server Banner" width="800"/>
+<img src="https://i.imgur.com/n62x7pv.png" alt="Server Lgo" width="800"/>
 
 <br/>
 
@@ -66,7 +66,7 @@ Wij streven ernaar een **veilige, eerlijke en plezierige** omgeving te bieden vo
 
 <div align="center">
 
-# | 🚨 Overtreding | 🔨 Sanctie |
+**| 🚨 Overtreding | 🔨 Sanctie |**
 | Lichte overtreding (1e keer) | Mondelinge waarschuwing |
 | Lichte overtreding (herhaling) | Schriftelijke waarschuwing |
 | Normale overtreding | Tijdelijke mute / kick |
@@ -85,7 +85,7 @@ Wij streven ernaar een **veilige, eerlijke en plezierige** omgeving te bieden vo
 ## 📞 Contact & Staff
 
 <div align="center">
-# | 👤 Functie   | 🏷️ Naam  | 📬 Discord |
+**| 👤 Functie   | 🏷️ Naam  | 📬 Discord |**
 | 👑 Eigenaar    | Jayden    | @jaydenytgamer01 |
 | 🛡️ Management  | Lewis     | @lewis091dc |
 
