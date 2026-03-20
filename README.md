@@ -10,6 +10,14 @@
 
 ---
 
+<div align="center">
+
+**📍 Je bent hier →** `📖 Informatie` &nbsp;|&nbsp; [🖥️ Server Details](./SERVER-DETAILS.md) &nbsp;|&nbsp; [💬 Discord Regels](./DISCORD-REGELS.md) &nbsp;|&nbsp; [🎮 Ingame Regels](./INGAME-REGELS.md)
+
+</div>
+
+---
+
 </div>
 
 ## 📋 Inhoudsopgave
