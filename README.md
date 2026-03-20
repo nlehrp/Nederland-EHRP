@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER AFBEELDING -->
-<img src="https://imgur.com/n62x7pv" alt="Server Banner" width="800"/>
+<img src="https://i.imgur.com/n62x7pv.png" alt="Server Banner" width="800"/>
 
 <br/>
 
